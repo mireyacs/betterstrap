@@ -2,7 +2,7 @@
 > This is the only official place to download Betterstrap. Any other websites offering downloads or claiming to be us are not controlled by us.
 > If you're here for the untouched original Bloxstrap repository or download, Checkout the [forked repository](https://github.com/pizzaboxer/bloxstrap)
 
-# <img src="https://github.com/mireyacs/betterstrap/raw/main/Images/Bloxstrap.png" width="48"/> Bloxstrap
+# <img src="https://github.com/mireyacs/betterstrap/raw/main/Images/Bloxstrap.png" width="48"/> Betterstrap
 
 [![License](https://img.shields.io/github/license/mireyacs/betterstrap)](https://github.com/mireyacs/betterstrap/blob/main/LICENSE)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/mireyacs/betterstrap/ci.yml?branch=main&label=builds)](https://github.com/mireyacs/betterstrap/actions)
@@ -13,33 +13,28 @@ This is a drop-in replacement for the standard Roblox bootstrapper, providing ad
 
 This does not touch or modify the game client itself, it's really just a launcher. So don't worry, there's [no risk of being banned](https://github.com/pizzaboxer/bloxstrap/wiki/Why-it%27s-not-reasonably-possible-for-you-to-be-banned-by-Bloxstrap) for using this.
 
-Running into a problem or need help with something? [Check out the Wiki](https://github.com/mireyacs/betterstrap/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/mireyacs/betterstrap/issues) or report it in our [Discord server](https://discord.gg/nKjV3mGq6R).
+Running into a problem or need help with something? [Check out the Wiki](https://github.com/pizzaboxer/bloxstrap/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/mireyacs/betterstrap/issues).
  
-Bloxstrap is only supported for PCs running Windows.
+Betterstrap is only supported for PCs running Windows.
  
  ## Installing
-Download the [latest release of Bloxstrap](https://github.com/mireyacs/betterstrap/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
+Download the [latest release of Betterstrap](https://github.com/mireyacs/betterstrap/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
 
-Alternatively, you can install Bloxstrap via [Winget](https://winstall.app/apps/pizzaboxer.Bloxstrap) by running this in a Command Prompt window:
-```
-> winget install bloxstrap
-```
+You will also need the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true). If you don't already have it installed, you'll be prompted to install it anyway. Be sure to install Betterstrap after you've installed this.
 
-You will also need the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true). If you don't already have it installed, you'll be prompted to install it anyway. Be sure to install Bloxstrap after you've installed this.
+It's not unlikely that Windows Smartscreen will show a popup when you run Betterstrap for the first time. This happens because it's an unknown program, not because it's actually detected as being malicious. To dismiss it, just click on "More info" and then "Run anyway".
 
-It's not unlikely that Windows Smartscreen will show a popup when you run Bloxstrap for the first time. This happens because it's an unknown program, not because it's actually detected as being malicious. To dismiss it, just click on "More info" and then "Run anyway".
-
-Once installed, Bloxstrap is added to your Start Menu, where you can access the menu and reconfigure your preferences if needed.
+Once installed, Betterstrap is added to your Start Menu, where you can access the menu and reconfigure your preferences if needed.
  
 ## Features
-Here's some of the features that Bloxstrap provides over the stock Roblox bootstrapper:
+Here's some of the features that Betterstrap provides over the stock Roblox bootstrapper:
 
 * Persistent file modifications, includes re-adding the old death sound!
 * Painless and seamless support for Discord Rich Presence
 * A customizable launcher look
 * Lets you see what region your current server is located in
 
-All the available features are browsable through the Bloxstrap menu.
+All the available features are browsable through the Betterstrap menu.
 
 ## Screenshots
 
