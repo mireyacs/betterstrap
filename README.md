@@ -1,5 +1,6 @@
 > [!CAUTION]
-> This is the only official place to download Bloxstrap. Any other websites offering downloads or claiming to be us are not controlled by us.
+> This is the only official place to download Betterstrap. Any other websites offering downloads or claiming to be us are not controlled by us.
+> If you're here for the untouched original Bloxstrap repository or download, Checkout the [forked repository](https://github.com/pizzaboxer/bloxstrap)
 
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="48"/> Bloxstrap
 
