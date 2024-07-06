@@ -8,8 +8,6 @@
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/mireyacs/betterstrap/ci.yml?branch=main&label=builds)](https://github.com/mireyacs/betterstrap/actions)
 [![Downloads](https://img.shields.io/github/downloads/mireyacs/betterstrap/latest/total?color=981bfe)](https://github.com/mireyacs/betterstrap/releases)
 [![Version](https://img.shields.io/github/v/release/mireyacs/betterstrap?color=7a39fb)](https://github.com/mireyacs/betterstrap/releases/latest)
-[![Discord](https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/nKjV3mGq6R)
-[![lol](https://img.shields.io/badge/mom%20made-pizza%20rolls-orange)](https://media.tenor.com/FIkSGbGycmAAAAAd/manly-roblox.gif)
 
 This is a drop-in replacement for the standard Roblox bootstrapper, providing additional useful features and improvements. Nothing more, nothing less.
 
